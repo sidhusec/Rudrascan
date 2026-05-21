@@ -56,8 +56,8 @@ cd Rudrascan
 ## Docker
 
 ```bash
-docker pull six2dez/rudrascan:main
-docker run -it --rm -v "${PWD}/output:/rudrascan/Recon/" six2dez/rudrascan:main -d target.com -r
+docker pull sidhusec/Rudrascan:main
+docker run -it --rm -v "${PWD}/output:/rudrascan/Recon/" sidhusec/rudrascan:main -d target.com -r
 ```
 
 ## Requirements
@@ -70,6 +70,4 @@ docker run -it --rm -v "${PWD}/output:/rudrascan/Recon/" six2dez/rudrascan:main 
 
 Use only on targets you have explicit permission to test. Unauthorized scanning is illegal. The developers are not responsible for misuse.
 
-## License
 
-[MIT](LICENSE)
