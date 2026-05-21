@@ -13,6 +13,12 @@ An automated reconnaissance and vulnerability scanner for security researchers a
 
 ## Installation
 
+## 🎥 Full Video Tutorial (10 Minutes)
+
+New users can follow this complete walkthrough covering installation, setup, configuration, and live scanning demo.
+
+▶️ Watch here: [https://www.youtube.com/watch?v=i-SW3gJgOi4]
+
 ```bash
 git clone https://github.com/sidhusec/Rudrascan
 cd Rudrascan
