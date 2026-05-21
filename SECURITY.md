@@ -14,7 +14,7 @@
 
 Instead, please report them responsibly by emailing **six2dez** directly:
 
-- Email: [six2dez@gmail.com](mailto:six2dez@gmail.com)
+- Email: [sidhartha.sec@gmail.com](mailto:six2dez@gmail.com)
 - Subject: `[RudraScan Security] <brief description>`
 
 You should receive a response within 72 hours acknowledging the report. The maintainer will work with you to understand and remediate the issue before any public disclosure.
