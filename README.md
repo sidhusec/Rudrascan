@@ -14,8 +14,8 @@ An automated reconnaissance and vulnerability scanner for security researchers a
 ## Installation
 
 ```bash
-git clone https://github.com/six2dez/rudrascan
-cd rudrascan
+git clone https://github.com/sidhusec/Rudrascan
+cd Rudrascan
 ./install.sh
 ```
 
